@@ -1,4 +1,4 @@
-
+# Name: Braden Stanfield    Class: Wed
 def simple_stats():
     num1 = float(input())
     num2 = float(input())

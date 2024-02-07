@@ -1,4 +1,4 @@
-
+# Name: Braden Stanfield    Class: Wed
 def real_estate():
     
     current_price = int(input())
